@@ -21,10 +21,11 @@ Product Catalog
 
 ## Getting started
 
-1. Clone this repo using `git clone git@github.com:leotelles/product-catalog-web.git`
-2. Move yourself to the appropriate directory: `cd product-catalog-web`<br />
-3. Run `yarn` to install dependencies<br />
-4. Run `yarn start` to start the web application
+1. Follow the instructions on the [product-catalog-server](https://github.com/leotelles/product-catalog-server) to have the server up and running on your machine.
+2. Clone this repo using `git clone git@github.com:leotelles/product-catalog-web.git`
+3. Move yourself to the appropriate directory: `cd product-catalog-web`<br />
+4. Run `yarn` to install dependencies<br />
+5. Run `yarn start` to start the web application
 
 ## License
 
